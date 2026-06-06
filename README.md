@@ -213,6 +213,7 @@ A collaborative list of great resources about RESTful API architecture, developm
 * [Rest for Haskell](https://github.com/silkapp/rest) - This package allows you to create REST APIs in Haskell. These APIs can be run in different web frameworks. They can also be used to automatically generate documentation as well as client libraries.
 
 ## Testing
+- [BreakShield CI](https://breakshield-ci.vercel.app) - Automated breaking change detection for REST APIs in GitHub PRs. AST-based analysis with confidence scoring.
 
 ### Querying
 
